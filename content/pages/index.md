@@ -5,7 +5,8 @@ sections:
   - type: hero
     heading: This is your main value proposition
     body: >
-      And a super compelling supporting paragraph that makes the user immediately want to click the button below.
+      And a super compelling supporting paragraph that makes the user
+      immediately want to click the button below.
     button:
       label: Get Started
       url: /
@@ -24,5 +25,7 @@ sections:
         value: 4M
       - label: Prefer our product
         value: 5 of 5
+      - label: Five-star reviews
+        value: 5M
     theme: dark
 ---
