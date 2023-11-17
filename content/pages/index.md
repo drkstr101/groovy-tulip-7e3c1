@@ -25,7 +25,5 @@ sections:
         value: 4M
       - label: Prefer our product
         value: 5 of 5
-      - label: Five-star reviews
-        value: 5M
     theme: dark
 ---
